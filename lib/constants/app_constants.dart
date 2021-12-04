@@ -1,3 +1,4 @@
 class AppConstants {
-  static const String apiUrl = "&apiKey=c5dd60095c67449cb216d1e7415389f2";
+  static const String apiUrl =
+      "&apiKey=GOT_TO_NEWSAPI.ORG_AND_PASTE_API_KEY_HERE";
 }
